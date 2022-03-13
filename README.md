@@ -1,6 +1,6 @@
 # 배민 장바구니
 
-[사이트 보러가기](https://cranky-tereshkova-6caea1.netlify.app/)
+<a href="https://cranky-tereshkova-6caea1.netlify.app/" target="_blank">구경하기</a>
 
 스터디 중 요구사항에 맞게 장바구니 만들어 보기를 하고 나서
 
